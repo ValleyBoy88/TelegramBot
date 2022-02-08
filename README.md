@@ -1,5 +1,5 @@
-# TelegramBot
 TelegramBot "MoneyConvert"
+Телеграм-бот для конвертации валют - @MoneyConvertNewBot
 
 Files:
 
